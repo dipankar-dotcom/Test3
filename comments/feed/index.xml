@@ -8,11 +8,11 @@
 <channel>
 	<title>
 	Comments for Solutax	</title>
-	<atom:link href="/https://dipankar-dotcom.github.io/Test3/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://dipankar-dotcom.github.io/Test3</link>
+	<atom:link href="https://dipankar-dotcom.github.io/Test3/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://dipankar-dotcom.github.io/Test3</link>
 	<description>Accounting &#124; Taxation &#124; Registration &#124; Compliances</description>
 	<lastBuildDate>
-	Sat, 28 Sep 2019 18:32:32 +0000	</lastBuildDate>
+	Sat, 28 Sep 2019 18:51:21 +0000	</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
