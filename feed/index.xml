@@ -9,16 +9,15 @@
 
 <channel>
 	<title>Solutax</title>
-	<atom:link href="https://dipankar-dotcom.github.io/Test3/feed/" rel="self" type="application/rss+xml" />
-	<link>https://dipankar-dotcom.github.io/Test3</link>
+	<atom:link href="/https://dipankar-dotcom.github.io/TestWordpress/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://dipankar-dotcom.github.io/TestWordpress</link>
 	<description>Accounting &#124; Taxation &#124; Registration &#124; Compliances</description>
-	<lastBuildDate>
-	Sun, 23 Jun 2019 10:24:58 +0000	</lastBuildDate>
+	<lastBuildDate>2019-06-23 10:24:58</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.1.2</generator>
+	<generator>https://wordpress.org/?v=5.2.3</generator>
 </channel>
 </rss>

@@ -1092,8 +1092,8 @@ body.single .nav-links .nav-next a:hover {
  * -------------------------- */
 @font-face {
   font-family: 'FontAwesome';
-  src: url("https://dipankar-dotcom.github.io/Test3/wp-content/themes/trade-hub/assets/fonts/fontawesome-webfont.eot?v=4.6.1");
-  src: url("https://dipankar-dotcom.github.io/Test3/wp-content/themes/trade-hub/assets/fonts/fontawesome-webfont.eot#iefix&v=4.6.1") format("embedded-opentype"), url("https://dipankar-dotcom.github.io/Test3/wp-content/themes/trade-hub/assets/fonts/fontawesome-webfont.woff2?v=4.6.1") format("woff2"), url("https://dipankar-dotcom.github.io/Test3/wp-content/themes/trade-hub/assets/fonts/fontawesome-webfont.woff?v=4.6.1") format("woff"), url("https://dipankar-dotcom.github.io/Test3/wp-content/themes/trade-hub/assets/fonts/fontawesome-webfont.ttf?v=4.6.1") format("truetype"), url("https://dipankar-dotcom.github.io/Test3/wp-content/themes/trade-hub/assets/fonts/fontawesome-webfont.svg?v=4.6.1#fontawesomeregular") format("svg");
+  src: url("/https://dipankar-dotcom.github.io/TestWordpress/wp-content/themes/trade-hub/assets/fonts/fontawesome-webfont.eot?v=4.6.1");
+  src: url("/https://dipankar-dotcom.github.io/TestWordpress/wp-content/themes/trade-hub/assets/fonts/fontawesome-webfont.eot#iefix&v=4.6.1") format("embedded-opentype"), url("/https://dipankar-dotcom.github.io/TestWordpress/wp-content/themes/trade-hub/assets/fonts/fontawesome-webfont.woff2?v=4.6.1") format("woff2"), url("/https://dipankar-dotcom.github.io/TestWordpress/wp-content/themes/trade-hub/assets/fonts/fontawesome-webfont.woff?v=4.6.1") format("woff"), url("/https://dipankar-dotcom.github.io/TestWordpress/wp-content/themes/trade-hub/assets/fonts/fontawesome-webfont.ttf?v=4.6.1") format("truetype"), url("/https://dipankar-dotcom.github.io/TestWordpress/wp-content/themes/trade-hub/assets/fonts/fontawesome-webfont.svg?v=4.6.1#fontawesomeregular") format("svg");
   font-weight: normal;
   font-style: normal;
 }
